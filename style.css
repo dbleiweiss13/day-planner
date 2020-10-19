@@ -1,0 +1,58 @@
+.headingDiv {
+    background-color: white;
+    margin-bottom: 0px;
+}
+
+.borderLine {
+    background-color: slategrey;
+    height: 30px;
+    width: 100%;
+}
+
+.headingDesc {
+    margin-top: 30px;
+    text-align: center;
+}
+
+/* styling for callendar */
+.callendarContainer{
+    margin: 40px 0px;
+}
+
+.rowContainer {
+    width: 95%;
+}
+
+.col1 {
+    border: dashed;
+    border-right: solid;
+    border-width: 1px;
+    border-color: black;
+    border-left: none;
+    border-bottom: none;
+}
+
+
+.background-gray {
+    background-color: lightgray;
+}
+
+.background-red {
+    background-color: red;
+}
+
+.background-green {
+    background-color: green;
+}
+
+.eventInput {
+    height: 70px;
+    border-top-color: white;
+    border-bottom-color: white;
+    resize: none;
+}
+
+.eventInput:focus {
+    outline: none !important;
+}
+
